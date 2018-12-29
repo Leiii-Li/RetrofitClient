@@ -12,7 +12,7 @@
 
 ### 引用
 ```
-compile 'com.excellence.retrofit:retrofit2:_latestVersion'
+compile 'com.nelson:retrofit:last_version'
 ```
 
 ### 权限
